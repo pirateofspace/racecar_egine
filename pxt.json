@@ -1,5 +1,5 @@
 {
-    "name": "racecar_egine",
+    "name": "racecar_engine",
     "description": "",
     "dependencies": {
         "core": "*",
